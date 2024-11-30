@@ -1,0 +1,1 @@
+{"allowed_domains":["mama.biz.id","info.mama.biz.id"]}
